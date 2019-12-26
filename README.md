@@ -1,5 +1,5 @@
 # Robotron_2019
--the introductory event of Robotics Club ,IIT(BHU)
+-the solution of the second runner up in introductory event of Robotics Club ,IIT(BHU)
  
  Problem Statement:
                   The goal was to make a robot that is able to operate in manul and autonomous mode to complete the
